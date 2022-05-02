@@ -5,7 +5,12 @@ Descriptive statistics.
 ## Screenshot
 [screenshot1](./assets/screenshot1.png?raw=true)
 ## Usage
-* input: a database in a known format (csv, xls, bmf, 00t, 00g, isis, msh, dm)
+* input: a database in a known file format:
+   - csv (headered ascii)
+   - xlsx (headered excel table)
+   - bmf (vulcan block model)
+   - isis (vulcan table)
+   - dm (datamine table)
  * condition: optional expression to filter. syntax is vulcan (bmf) or python (csv,isis)
  * lito: one or more classification variables that will break data into multiple tables (optional)
  * weight: variable that will be used as the weight on averages and sums (optional)
