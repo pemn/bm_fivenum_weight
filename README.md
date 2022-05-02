@@ -3,7 +3,7 @@ weighted fivenum statistics (min,mean,max,std,var)
 ## Objective
 Descriptive statistics.
 ## Screenshot
-[screenshot1](./assets/screenshot1.png?raw=true)
+[!screenshot1](./assets/screenshot1.png?raw=true)
 ## Usage
 * input: a database in a known file format:
    - csv (headered ascii)
@@ -27,14 +27,14 @@ topo|lito|length|gradeA|gradeB|gradeC
 0|medium|12|50|58|0.566308143
 0|high|7|60|83|0.313694847
 ## Example1
-[screenshot2](./assets/screenshot2.png?raw=true)  
+[!screenshot2](./assets/screenshot2.png?raw=true)  
 null|variable|count|mean|min|q1|q2|q3|max|var|std
 ---|---|---|---|---|---|---|---|---|---|---
 0|gradeA|6|35|10|22.5|35|47.5|60|350|18.70828693
 0|gradeB|6|45|6|6.5|40|81|94|1812.4|42.57229146
 0|gradeC|6|0.363161953|0.149790216|0.189887634|0.287176466|0.481167815|0.75153895|0.055583222|0.235760943
 ## Example2
-[screenshot3](./assets/screenshot3.png?raw=true)  
+[!screenshot3](./assets/screenshot3.png?raw=true)  
 lito|variable|length|count|mean|min|q1|q2|q3|max|var|std
 ---|---|---|---|---|---|---|---|---|---|---|---
 high|gradeA|2|45|30|37.5|45|52.5|60|450|21.21320344
@@ -47,7 +47,7 @@ high|gradeC|2|0.450664583|0.149790216|0.300227399|0.450664583|0.601101766|0.7515
 low|gradeC|2|0.287176466|0.199960489|0.243568478|0.287176466|0.330784455|0.374392444|0.015213254|0.123342019
 medium|gradeC|2|0.35164481|0.186530016|0.269087413|0.35164481|0.434202208|0.516759605|0.054525791|0.233507582
 ## Example3
-[screenshot4](./assets/screenshot4.png?raw=true)  
+[!screenshot4](./assets/screenshot4.png?raw=true)  
 lito|variable|length|count|mean|min|q1|q2|q3|max|var|std
 ---|---|---|---|---|---|---|---|---|---|---|---
 high|gradeA|30|2|41|30|30|30|60|60|450|21.21320344
