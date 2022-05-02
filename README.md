@@ -38,8 +38,8 @@ null|variable|count|mean|min|q1|q2|q3|max|var|std
 ## Example2
 ![screenshot3](./assets/screenshot3.png?raw=true)  
   
-lito|variable|length|count|mean|min|q1|q2|q3|max|var|std
----|---|---|---|---|---|---|---|---|---|---|---
+lito|variable|count|mean|min|q1|q2|q3|max|var|std
+---|---|---|---|---|---|---|---|---|---|---
 high|gradeA|2|45|30|37.5|45|52.5|60|450|21.21320344
 low|gradeA|2|25|10|17.5|25|32.5|40|450|21.21320344
 medium|gradeA|2|35|20|27.5|35|42.5|50|450|21.21320344
